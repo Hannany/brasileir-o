@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(3, 3, 3);
+    border: solid red;
+}
+
+ol{
+    font-size: xx-large;
+    border: solid red;
+}
+
+ul{
+    font-size: xx-large;
+    border: solid red;
+}
+
+a{
+    color: rgb(255, 0, 0);
+}

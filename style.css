@@ -1,0 +1,55 @@
+body {
+    height: 100vh;
+    background-color: aliceblue;
+    background-image: url(3106557-fundo-do-estadio-de-futebol-vetor.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+body{
+    margin: 0;
+    box-sizing: border-box;
+    height: 500px;
+}
+
+nav{
+    background-color: black;
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+}
+
+nav.Logo{
+    color: aliceblue;
+    float: left;
+    display: block;
+    padding: 14px 16px ;
+}
+
+nav.a{
+    color: aliceblue;
+    float: right;
+    text-decoration: none;
+    display: block;
+    padding: 14px 16px;
+}
+
+nav a:hover{
+    transition: 0.5s;
+    background-color: aqua;
+    color: antiquewhite;
+}
+
+div{
+    font-size: x-large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+
+h1{
+    text-align: center;
+}
+a{
+    color: rgb(255, 0, 0);
+}

@@ -1,0 +1,21 @@
+body {
+    height: 100vh;
+    background-color: aliceblue;
+    background-image: url(download.jfif);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+h1{
+    text-align: center;
+}
+
+a{
+    color: rgb(255, 0, 0);
+}
+
+p{
+    font-size: x-large;
+}
